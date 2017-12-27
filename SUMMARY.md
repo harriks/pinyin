@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [拼音练读单1](chapter1.md)
-* 拼音练读单2
+* [拼音练读单2](pin-yin-lian-du-dan-2.md)
 * 拼音练读单3
 * 拼音练读单4
 * 拼音练读单5
